@@ -1,3 +1,6 @@
+Tune-A-video:
+
+
 Final results from the evaluation of the Tune-A-Video model reveal an intriguing outcome. The model was trained on videos of a duck diving underwater in search of food from right to left. However, when prompted with "A fish diving underwater in search of food from right to left," the model successfully generated a video depicting the desired underwater sequence featuring a fish.
 
 The generated video demonstrated strong temporal coherence, with a high frame consistency score of 0.9335966. This indicates that the model effectively maintained visual consistency throughout the sequence, even though it was originally trained on a different animal. The smooth transitions and dynamic motion of the fish highlight the model's ability to adapt its learned behaviors to new prompts, capturing intricate underwater actions with notable detail and fluidity.
