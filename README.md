@@ -14,4 +14,7 @@ A Duck diving underwater in search of food from right to left
 A Fish diving underwater in search of food from right to left
 
 
+Motion Director
 
+When generating videos based on prompts, such as "A dolphin in ocean zoom in," showcasing the model's ability to produce realistic and dynamic video sequences from textual descriptions.
+![Unknown-5](https://github.com/user-attachments/assets/96643422-25e3-4bc1-a6a9-34b6ded9ade7)
