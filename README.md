@@ -11,7 +11,7 @@ This outcome showcases the model's versatility and its potential for generating 
 A Duck diving underwater in search of food from right to left
 
 ![Unknown](https://github.com/user-attachments/assets/51b9b718-213a-47b6-b21e-3b8c3013f90e)
-A Fish underwater in search of food from right to left
+A Fish diving underwater in search of food from right to left
 
 
 
